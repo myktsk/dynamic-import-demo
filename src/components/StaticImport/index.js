@@ -1,0 +1,1 @@
+export { StaticImport } from './StaticImport';
