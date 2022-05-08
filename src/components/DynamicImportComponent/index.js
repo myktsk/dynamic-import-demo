@@ -1,0 +1,1 @@
+export { DynamicImportComponent } from './DynamicImportComponent';

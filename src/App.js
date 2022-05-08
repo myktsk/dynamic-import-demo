@@ -1,9 +1,9 @@
-import { Prefetch } from './components/Prefetch';
+import { DynamicImportComponent } from './components/DynamicImportComponent';
 
 function App() {
   return (
     <div className="App" style={{ padding: 40 }}>
-      <Prefetch />
+      <DynamicImportComponent />
     </div>
   );
 }
